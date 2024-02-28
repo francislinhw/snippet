@@ -1,1 +1,1 @@
-/Users/francis/projects/market-quote-practice/rust/rust-cli-examples-main/02_bin_files/target/debug/bin_files: /Users/francis/projects/market-quote-practice/rust/rust-cli-examples-main/02_bin_files/src/bin/bin_files/main.rs
+/Users/francis/projects/market-quote-practice/rust/rust-cli-examples-main/02_bin_files/option_exit/target/debug/bin_files: /Users/francis/projects/market-quote-practice/rust/rust-cli-examples-main/02_bin_files/option_exit/src/bin/bin_files/main.rs
